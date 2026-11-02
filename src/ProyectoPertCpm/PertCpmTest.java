@@ -11,9 +11,6 @@ import java.util.*;
  *
  *  Hereda de PertCpm, por eso puede usar directamente Actividad, EPS,
  *  leerReal, leerEntero, pasoAdelante, pasoAtras, etc.
- *
- *  Compilar:  javac PertCpm.java PertCpmTest.java
- *  Ejecutar:  java PertCpmTest
  */
 public class PertCpmTest extends PertCpm {
 
